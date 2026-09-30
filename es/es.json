@@ -1267,7 +1267,7 @@
   "timeline.laneIcon.lane-status-hidden": "Oculta: esta línea no aparece en la reproducción ni en la exportación. Clic para mostrarla.",
   "timeline.laneIcon.lane-toggle-enable": "Ver / ocultar la línea: oculta, no se ve ni se oye, tampoco al exportar. Ej.: sacar los subtítulos de una versión.",
   "timeline.laneIcon.lane-toggle-mute": "Silenciar la línea. Ej.: escuchar el video sin la música.",
-  "timeline.laneIcon.lane-toggle-solo": "Solo (auriculares): escuchar únicamente esta línea. Ej.: revisar solo la voz.",
+  "timeline.laneIcon.lane-toggle-solo": "Solo (audífonos): oír solo esta línea. Ej.: revisar la voz sola. También en el menú del clic derecho.",
   "timeline.laneIcon.lane-toggle-lock": "Bloquear la línea: nada en ella se mueve ni se edita. Ej.: la música ya lista mientras cortas la imagen.",
   "composer.assetStrip.empty": "Sin imágenes en el proyecto",
   "composer.assetStrip.label": "Imagen",
@@ -2750,7 +2750,11 @@
   "voices.retry": "Reintentar",
   "voices.cancel": "Detener",
   "voices.remove": "Quitar",
-  "voices.use": "Úsalas desde el chat o un comando: speech.say dice un texto o un diálogo y lo pone en el carril «Voz»; después puedes grabar encima la voz real."
+  "voices.use": "Úsalas desde el chat o un comando: speech.say dice un texto o un diálogo y lo pone en el carril «Voz»; después puedes grabar encima la voz real.",
+  "timeline.laneIcon.lane-more": "Los controles de la línea: mostrar u ocultar, sonido, candado. Clic derecho para más (oírla sola, renombrar…).",
+  "timeline.laneIcon.lane-more-open": "Cerrar los controles de la línea (Esc).",
+  "timeline.laneMenu.hearAlone": "Oír solo esta pista (solo)",
+  "timeline.laneMenu.hearAll": "Dejar de oírla sola (quitar solo)"
  },
  "commands": {
   "names": {
