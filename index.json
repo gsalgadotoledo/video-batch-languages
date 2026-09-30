@@ -1,0 +1,13 @@
+{
+  "format": 1,
+  "languages": [
+    {
+      "code": "es",
+      "name": "Español",
+      "englishName": "Spanish",
+      "file": "es/es.json",
+      "bytes": 209266,
+      "sha256": "22d0515138d663b82ec8129d3ed29c747fd2f3715bb2a83794ed69f28bd7db37"
+    }
+  ]
+}
