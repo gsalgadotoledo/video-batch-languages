@@ -19,10 +19,9 @@
   "settings.nav.keyboard": "Atajos de teclado",
   "settings.nav.trash": "Papelera",
   "settings.language.title": "Idioma",
-  "settings.language.hint": "El idioma de la interfaz. «Sistema» sigue el de tu computador.",
+  "settings.language.hint": "El idioma de la interfaz. «Sistema» sigue el de tu computador. Los demás idiomas se descargan del repositorio de idiomas.",
   "settings.language.system": "Sistema ({name})",
   "settings.language.en": "English",
-  "settings.language.es": "Español",
   "opening.title": "Abriendo «{name}»",
   "opening.titleAny": "Abriendo el proyecto…",
   "opening.reading": "Leyendo el proyecto",
@@ -2723,7 +2722,11 @@
   "genres.asset.remove": "Quitar {name}",
   "genres.asset.none": "Aún ninguno.",
   "genres.asset.unclassed": "Sin clase",
-  "genres.asset.classify": "Clase de {name}"
+  "genres.asset.classify": "Clase de {name}",
+  "settings.language.download": "{name} (descargar)",
+  "settings.language.installing": "Descargando {name}…",
+  "settings.language.failed": "No se pudo descargar {name}; la interfaz queda como estaba.",
+  "settings.language.offline": "No se alcanza el repositorio de idiomas: solo los instalados."
  },
  "commands": {
   "names": {
@@ -3640,7 +3643,11 @@
    "zone.set": "Fijar zona",
    "zoom.levels": "Zoom por niveles",
    "zoom.log": "Zoom logarítmico",
-   "zoom.powers": "Zoom «Potencias de diez»"
+   "zoom.powers": "Zoom «Potencias de diez»",
+   "language.list": "Idiomas",
+   "language.install": "Instalar idioma",
+   "language.remove": "Quitar idioma",
+   "language.pack": "Paquete de idioma"
   },
   "categories": {
    "Agent": "Agente",

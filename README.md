@@ -22,6 +22,6 @@ A key missing from a pack shows in English.
 
 1. Copy `es/es.json` to `<code>/<code>.json` and translate the values.
 2. Add it to `index.json` with its `bytes` and `sha256`
-   (`shasum -a 256 <code>/<code>.json`).
+   (`node tools/index.mjs` rewrites it from the packs).
 3. To try it before publishing, start the app with
    `VEP_LANGUAGES_DIR=/path/to/this/folder`.
