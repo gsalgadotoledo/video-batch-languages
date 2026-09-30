@@ -2726,7 +2726,31 @@
   "settings.language.download": "{name} (descargar)",
   "settings.language.installing": "Descargando {name}…",
   "settings.language.failed": "No se pudo descargar {name}; la interfaz queda como estaba.",
-  "settings.language.offline": "No se alcanza el repositorio de idiomas: solo los instalados."
+  "settings.language.offline": "No se alcanza el repositorio de idiomas: solo los instalados.",
+  "settings.nav.voices": "Voz local",
+  "settings.keywords.voices": "voz habla texto a voz tts kokoro qwen local descargar modelo narrador diálogo",
+  "voices.lead": "Voces hechas en este computador: sin llave y sin enviar nada. No vienen con la app: descarga las que quieras.",
+  "voices.what.kokoro": "Rápida y liviana: decenas de voces por idioma y género. No sigue una dirección en palabras.",
+  "voices.what.qwen": "Calidad de estudio: sigue una dirección en palabras y una emoción. Pesada: corre en un Python propio.",
+  "voices.can.languages": "Idiomas: {list}",
+  "voices.can.instructions": "Dirección en palabras",
+  "voices.can.emotion": "Emoción",
+  "voices.installed": "Instalada",
+  "voices.ready": "Lista · {voices} voces · {languages} idiomas",
+  "voices.size.kokoro": "{size} por descargar (el modelo y su runtime)",
+  "voices.size.qwen": "{size} por descargar, más su runtime de Python (uv o python3)",
+  "voices.unsupported": "No es para este computador: {detail}",
+  "voices.state.downloading": "Descargando {pct}% · {speed}/s",
+  "voices.state.verifying": "Verificando la descarga…",
+  "voices.state.installing": "Instalando…",
+  "voices.state.preparing": "Preparando su runtime…",
+  "voices.state.failed": "No se pudo instalar: {error}",
+  "voices.state.cancelled": "Detenida. Instalar de nuevo retoma la descarga.",
+  "voices.install": "Descargar",
+  "voices.retry": "Reintentar",
+  "voices.cancel": "Detener",
+  "voices.remove": "Quitar",
+  "voices.use": "Úsalas desde el chat o un comando: speech.say dice un texto o un diálogo y lo pone en el carril «Voz»; después puedes grabar encima la voz real."
  },
  "commands": {
   "names": {
@@ -3647,7 +3671,13 @@
    "language.list": "Idiomas",
    "language.install": "Instalar idioma",
    "language.remove": "Quitar idioma",
-   "language.pack": "Paquete de idioma"
+   "language.pack": "Paquete de idioma",
+   "voice.models": "Voces locales",
+   "voice.model.install": "Instalar voz local",
+   "voice.model.cancel": "Detener la instalación de la voz",
+   "voice.model.remove": "Quitar voz local",
+   "voice.voices": "Voces de un motor local",
+   "speech.say": "Decir un texto (voz)"
   },
   "categories": {
    "Agent": "Agente",
