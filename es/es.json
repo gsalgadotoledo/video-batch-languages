@@ -2757,7 +2757,12 @@
   "timeline.laneMenu.hearAll": "Dejar de oírla sola (quitar solo)",
   "shell.toast.title": "Notificaciones",
   "shell.toast.clearAll": "Cerrar todas",
-  "voice.input.isDefault": "predeterminado del sistema"
+  "voice.input.isDefault": "predeterminado del sistema",
+  "importNote.busy": "Preparando archivos {ready}/{total} · {pct} %",
+  "importNote.done": "Listos los {total} archivos",
+  "importNote.toRead": "{count} por leer",
+  "importNote.reading": "leyendo…",
+  "importNote.ready": "listo"
  },
  "commands": {
   "names": {
