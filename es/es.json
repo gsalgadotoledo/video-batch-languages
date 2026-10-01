@@ -2754,7 +2754,9 @@
   "timeline.laneIcon.lane-more": "Los controles de la línea: mostrar u ocultar, sonido, candado. Clic derecho para más (oírla sola, renombrar…).",
   "timeline.laneIcon.lane-more-open": "Cerrar los controles de la línea (Esc).",
   "timeline.laneMenu.hearAlone": "Oír solo esta pista (solo)",
-  "timeline.laneMenu.hearAll": "Dejar de oírla sola (quitar solo)"
+  "timeline.laneMenu.hearAll": "Dejar de oírla sola (quitar solo)",
+  "shell.toast.title": "Notificaciones",
+  "shell.toast.clearAll": "Cerrar todas"
  },
  "commands": {
   "names": {
