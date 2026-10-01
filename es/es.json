@@ -2775,7 +2775,25 @@
   "settings.voice.bits": "Profundidad del archivo",
   "settings.voice.bits.hint": "24 bits es la profundidad propia de un conversor; 32 bits flotante guarda margen por encima de 0 dBFS.",
   "settings.voice.bits24": "24 bits",
-  "settings.voice.bits32": "32 bits flotante"
+  "settings.voice.bits32": "32 bits flotante",
+  "settings.nav.styles": "Estilos",
+  "settings.keywords.styles": "estilos dibujo personaje ilustración 3d motion graphics efectos prompts biblioteca",
+  "styles.category": "Categoría",
+  "styles.cat.drawing": "Dibujo",
+  "styles.cat.3d": "3D",
+  "styles.cat.motion": "Motion graphics",
+  "styles.cat.motion-fx": "Efectos de motion",
+  "styles.search": "Buscar estilos",
+  "styles.families": "Familias",
+  "styles.allFamilies": "Todas",
+  "styles.none": "Ningún estilo con esas palabras",
+  "styles.palette": "Paleta",
+  "styles.traits": "Lo que lo define",
+  "styles.steps": "Los pasos ({count})",
+  "styles.prompt": "Prompt",
+  "styles.copy": "Copiar",
+  "styles.copied": "Copiado",
+  "styles.avoid": "Evitar:"
  },
  "commands": {
   "names": {
@@ -3702,7 +3720,13 @@
    "voice.model.cancel": "Detener la instalación de la voz",
    "voice.model.remove": "Quitar voz local",
    "voice.voices": "Voces de un motor local",
-   "speech.say": "Decir un texto (voz)"
+   "speech.say": "Decir un texto (voz)",
+   "style.families": "Familias de estilos",
+   "style.list": "Estilos",
+   "style.get": "Ver un estilo",
+   "style.pick": "Elegir estilo para una idea",
+   "style.prompt": "Prompt de un estilo",
+   "style.design": "Diseñar con un estilo"
   },
   "categories": {
    "Agent": "Agente",
@@ -3831,7 +3855,8 @@
    "Voice": "Voz",
    "Workspace": "Espacio de trabajo",
    "Zone": "Zona",
-   "Zoom": "Zoom"
+   "Zoom": "Zoom",
+   "Styles": "Estilos"
   }
  },
  "main": {
