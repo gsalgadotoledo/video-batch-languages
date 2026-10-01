@@ -2836,7 +2836,8 @@
   "settings.pluginInstall.doUpdate": "Actualizar",
   "settings.pluginInstall.reinstall": "Reinstalar",
   "settings.pluginInstall.downgrade": "Instalar la versión anterior",
-  "settings.pluginInstall.asks.command": "1 comando ({agent} lo puede usar el asistente)"
+  "settings.pluginInstall.asks.command": "1 comando ({agent} lo puede usar el asistente)",
+  "settings.pluginInstall.asks.serve": "Un pequeño servidor en tu red local, para el celular (apagado hasta que lo enciendas)"
  },
  "commands": {
   "names": {
