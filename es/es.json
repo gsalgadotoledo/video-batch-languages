@@ -904,6 +904,8 @@
   "chat.context.studying": "estudiándose",
   "chat.context.study": "Estudiar una referencia (video o URL)…",
   "chat.context.genresSettings": "Abrir en Ajustes",
+  "chat.tools.providers": "Proveedores de IA",
+  "chat.tools.provider.does": "{count} herramientas",
   "chat.telegram.aria": "Chat desde el celular (Telegram)",
   "chat.telegram.title": "Telegram",
   "chat.telegram.on": "Conectado {bot}",
