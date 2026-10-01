@@ -903,6 +903,7 @@
   "chat.context.references": "Referencias",
   "chat.context.studying": "estudiándose",
   "chat.context.study": "Estudiar una referencia (video o URL)…",
+  "chat.context.genresSettings": "Abrir en Ajustes",
   "chat.context.scripts": "Guiones",
   "chat.context.scriptsNone": "Instala el plugin Guiones para enganchar un guion.",
   "chat.context.scriptsEmpty": "Aún no hay guiones en este proyecto.",
