@@ -2801,7 +2801,8 @@
   "gallery.visual.kind.animation": "Animación",
   "gallery.visual.addToTimeline": "Agregar al timeline",
   "gallery.visual.openComposer": "Abrir en el compositor",
-  "gallery.visual.onTimeline": "En el timeline"
+  "gallery.visual.onTimeline": "En el timeline",
+  "plugins.panel.missing": "El panel {panel} no se puede abrir: {error}"
  },
  "commands": {
   "names": {
