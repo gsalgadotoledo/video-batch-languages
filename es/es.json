@@ -2756,7 +2756,8 @@
   "timeline.laneMenu.hearAlone": "Oír solo esta pista (solo)",
   "timeline.laneMenu.hearAll": "Dejar de oírla sola (quitar solo)",
   "shell.toast.title": "Notificaciones",
-  "shell.toast.clearAll": "Cerrar todas"
+  "shell.toast.clearAll": "Cerrar todas",
+  "voice.input.isDefault": "predeterminado del sistema"
  },
  "commands": {
   "names": {
