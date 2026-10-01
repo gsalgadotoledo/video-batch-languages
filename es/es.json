@@ -2762,7 +2762,20 @@
   "importNote.done": "Listos los {total} archivos",
   "importNote.toRead": "{count} por leer",
   "importNote.reading": "leyendo…",
-  "importNote.ready": "listo"
+  "importNote.ready": "listo",
+  "voice.input.channels": "Canales",
+  "voice.input.channel": "Entrada {n}",
+  "voice.input.pair": "Entradas {a}+{b} (estéreo)",
+  "voice.input.format": "{khz} kHz como corre la entrada · WAV sin pérdida, grabado por la app",
+  "settings.voice.title": "Grabación de voz",
+  "settings.voice.capture": "Captura",
+  "settings.voice.capture.hint": "Estudio: la app abre la entrada a la tasa que fijó su consola, con todos sus canales, y escribe el archivo ella misma. Navegador: la grabadora de Chromium, la alternativa.",
+  "settings.voice.native": "Estudio (nativa)",
+  "settings.voice.browser": "Navegador",
+  "settings.voice.bits": "Profundidad del archivo",
+  "settings.voice.bits.hint": "24 bits es la profundidad propia de un conversor; 32 bits flotante guarda margen por encima de 0 dBFS.",
+  "settings.voice.bits24": "24 bits",
+  "settings.voice.bits32": "32 bits flotante"
  },
  "commands": {
   "names": {
