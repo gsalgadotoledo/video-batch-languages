@@ -680,7 +680,7 @@
   "chat.sidebar.queue.drop.aria": "Quitar de la cola",
   "chat.sidebar.queue.drop": "Quitar",
   "chat.sidebar.queue.edit": "Editar",
-  "chat.sidebar.queue.edit.aria": "Editar este prompt en cola",
+  "chat.sidebar.queue.edit.aria": "Editar en la cola",
   "chat.sidebar.context.clip": "Clip · {label}",
   "chat.sidebar.context.comment": "Comentario · {label}",
   "chat.sidebar.context.moment": "Momento · {time}",
