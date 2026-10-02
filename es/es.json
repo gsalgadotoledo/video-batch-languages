@@ -664,6 +664,7 @@
   "chat.sidebar.question.placeholder": "Otra respuesta…",
   "chat.sidebar.question.answer": "Responder",
   "chat.sidebar.edge": "Arrastra para cambiar el ancho · clic para cerrar",
+  "chat.subagents.tokens": "{tokens} tok",
   "chat.subagents.title": "Subagentes",
   "chat.subagents.count": "{count} subagentes",
   "chat.subagents.count.one": "1 subagente",
