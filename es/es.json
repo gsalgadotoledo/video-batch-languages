@@ -2845,6 +2845,7 @@
   "settings.engines.title": "Motores (experimental)",
   "settings.engines.viewer": "Quién pinta la imagen",
   "settings.engines.exporter": "Quién escribe el archivo",
+  "settings.engines.h264": "Quién codifica H.264 (exportadores de Rust y canvas)",
   "settings.engines.auto": "Automático (el estable)",
   "settings.engines.experimental": "experimental",
   "settings.engines.runs": "En uso: {label}.",
