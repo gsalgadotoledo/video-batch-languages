@@ -4035,6 +4035,7 @@
   "error.noProject": "no hay un proyecto abierto",
   "error.starting": "la app aún se está iniciando",
   "error.emptyTake": "la grabación está vacía",
+  "error.micDenied": "el micrófono no tiene permiso: activa Video Batch en Ajustes del Sistema › Privacidad y seguridad › Micrófono",
   "resource.restoreSnapshot": "Restaurar esta foto",
   "resource.openProject": "Abrir el proyecto"
  }
