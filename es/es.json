@@ -685,7 +685,7 @@
   "chat.more.clearSure": "Vaciarla: se van sus mensajes y su cola",
   "chat.more.width": "Ancho de siempre",
   "chat.more.tab": "Abrir en una pestaña",
-  "chat.more.tabSoon": "Pronto",
+  "chat.more.panel": "Volver al panel",
   "chat.sidebar.queue.aria": "Prompts en cola",
   "chat.sidebar.queue.count": "{n} en espera",
   "chat.sidebar.queue.held": "Cola en pausa · {n} en espera",
