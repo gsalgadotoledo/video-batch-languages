@@ -663,6 +663,7 @@
   "chat.sidebar.question.input": "Respuesta al agente",
   "chat.sidebar.question.placeholder": "Otra respuesta…",
   "chat.sidebar.question.answer": "Responder",
+  "chat.sidebar.edge": "Arrastra para cambiar el ancho · doble clic para el de siempre · clic para cerrar",
   "chat.sidebar.queue.aria": "Prompts en cola",
   "chat.sidebar.queue.count": "{n} en espera",
   "chat.sidebar.queue.held": "Cola en pausa · {n} en espera",
