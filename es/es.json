@@ -844,6 +844,7 @@
   "chat.parts.retry.titleNoImages": "Enviar de nuevo este mensaje (sin sus imágenes: vuelve a adjuntarlas si hacen falta)",
   "chat.parts.retry": "↻ Reintentar",
   "chat.parts.copy": "Copiar",
+  "chat.parts.retryAsk": "↻ Preguntar de nuevo",
   "chat.parts.copied": "Copiado",
   "chat.parts.edit": "Editar",
   "chat.parts.edit.aria": "Escribir de nuevo la pregunta",
