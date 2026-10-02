@@ -2910,7 +2910,23 @@
   "settings.pluginInstall.reinstall": "Reinstalar",
   "settings.pluginInstall.downgrade": "Instalar la versión anterior",
   "settings.pluginInstall.asks.command": "1 comando ({agent} lo puede usar el asistente)",
-  "settings.pluginInstall.asks.serve": "Un pequeño servidor en tu red local, para el celular (apagado hasta que lo enciendas)"
+  "settings.pluginInstall.asks.serve": "Un pequeño servidor en tu red local, para el celular (apagado hasta que lo enciendas)",
+  "chat.parts.modelTime": "modelo {time}",
+  "chat.parts.access.key": "API {provider} · {hint}…",
+  "chat.parts.access.keyUnknown": "API {provider}",
+  "chat.parts.access.subscription": "suscripción {who}",
+  "chat.parts.cost": "US$ {usd}",
+  "chat.parts.cost.estimated": "≈ US$ {usd} (lista de precios)",
+  "chat.parts.cost.notBilled": "no cobrado",
+  "chat.parts.cost.unknown": "costo desconocido",
+  "chat.parts.usage.cost": " · US$ {usd}",
+  "chat.parts.usage.billed": " (cobrado US$ {billed})",
+  "chat.slash.cost.usd": " · US$ {usd} a precio de API, de los cuales US$ {billed} cobrados a una key",
+  "chat.model.refresh": "Actualizar modelos",
+  "chat.model.refreshing": "Consultando…",
+  "chat.model.fetched": "Lista del {when}",
+  "chat.model.fetchedNever": "Lista incluida en la app",
+  "chat.model.refreshError": "{provider}: {error}"
  },
  "commands": {
   "names": {
