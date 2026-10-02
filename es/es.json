@@ -879,6 +879,7 @@
   "chat.widget.drafts.used": "{count} clips",
   "chat.widget.drafts.used.one": "1 clip",
   "chat.widget.drafts.used.other": "{count} clips",
+  "chat.widget.drafts.free": "gratis",
   "chat.widget.drafts.look": "Mirar",
   "chat.widget.drafts.replace": "Reemplazar con…",
   "chat.widget.drafts.query": "Qué buscar",
