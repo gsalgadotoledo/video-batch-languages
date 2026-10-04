@@ -1027,6 +1027,7 @@
   "timeline.laneMenu.spine": "Hacer este carril el foco principal",
   "timeline.laneMenu.spineClear": "Quitar el foco principal",
   "timeline.laneMenu.organize": "Ordenar los carriles en secciones",
+  "timeline.laneMenu.spineAuto": "Ordenar los carriles solo",
   "timeline.laneMenu.up": "Subir una fila",
   "timeline.laneMenu.down": "Bajar una fila",
   "timeline.laneMenu.delete": "Borrar con sus clips",
