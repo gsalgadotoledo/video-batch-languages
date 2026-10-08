@@ -1472,6 +1472,7 @@
   "composer.stylize.film": "Estilos sobre el video mismo: el primero vuelve a poner el video encima, sincronizado, y le aplica el estilo a esa copia; el clip y su sonido quedan como estaban.",
   "composer.sheet.attrKeyed": "{n} fotogramas aquí: elígelo para ver solo esos, ▶ para reproducirlos",
   "composer.sheet.attrEmpty": "Todavía sin fotogramas aquí",
+  "composer.sheet.attrAdd": "+ Animar",
   "composer.sheet.attrPlay": "Reproducir los fotogramas de este tab, del primero al último",
   "composer.stylize.in": "Entrada",
   "composer.stylize.out": "Salida",
