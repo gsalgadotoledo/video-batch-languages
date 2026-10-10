@@ -2082,6 +2082,8 @@
   "sound.sheet.many": "{n} clips: cada cambio va a todos",
   "sound.sheet.mixed": "Mixto",
   "sound.copy": "Copiar sonido",
+  "sound.mixer.role.mute": "Silenciar este rol (todo lo que tiene)",
+  "sound.mixer.role.solo": "Escuchar solo este rol (los demás en silencio)",
   "sound.nudge.label": "Volumen {by} dB",
   "sound.loud.tip": "Sonoridad (LUFS): corto plazo (3 s) · integrada · pico real (dBTP)",
   "sound.loud.s": "S",
