@@ -4293,6 +4293,7 @@
    "transport.state": "Estado de la reproducción",
    "transport.stop": "Detener",
    "transport.toggle": "Reproducir/Pausar",
+   "transport.shuttle": "Lanzadera (J/K/L)",
    "trim.apply": "Aplicar recorte del archivo",
    "trim.auto": "Recorte automático",
    "trim.clip": "Recortar clip",
