@@ -1854,6 +1854,8 @@
   "sound.color.op.off": "Apagar {name}",
   "sound.color.op.on": "Encender {name}",
   "sound.color.op.remove": "Quitar {name}",
+  "sound.scopes.wave.luma": "Luma",
+  "sound.scopes.wave.parade": "Desfile RGB",
   "sound.scopes.histogram": "Histograma",
   "sound.scopes.waveform": "Forma de onda",
   "sound.scopes.vectorscope": "Vectorscopio",
