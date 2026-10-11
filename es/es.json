@@ -1510,6 +1510,8 @@
   "composer.film.bypass": "Omitir",
   "composer.stylize.applied": "{name}: ya está en la capa — un clic lo quita",
   "composer.inspector.fx.remove": "Quitar este efecto de la capa (⌘Z lo devuelve)",
+  "composer.inspector.fx.off": "Apagar este efecto sin quitarlo. Ej.: comparar la capa con y sin él",
+  "composer.inspector.fx.on": "Volver a encender este efecto",
   "composer.sheet.keysFree": "Mover los fotogramas en el lienzo",
   "composer.sheet.keysFreeOn": "Los fotogramas del lienzo se mueven: arrastra un rombo para mover el elemento en ese momento. Clic para volver a bloquearlos.",
   "composer.sheet.keysFreeOff": "Los fotogramas del lienzo están bloqueados, para que no estorben lo que mueves. Clic para liberarlos y arrastrarlos.",
