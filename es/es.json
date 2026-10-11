@@ -2288,6 +2288,7 @@
   "sound.autonote.vibRate": "Velocidad del vibrato",
   "sound.autonote.vibFade": "Entrada del vibrato",
   "sound.autonote.natural": "Natural",
+  "sound.autonote.meter": "Corrección",
   "sound.autonote.laneOnly": "Auto Note afina una voz: en un carril o un bus no se compensa y el sonido sale tarde. Ponlo en el clip.",
   "sound.preset.reverb-real-room": "Cuarto real",
   "sound.preset.reverb-real-room.hint": "Un cuarto pequeño por convolución: cercano, natural.",
