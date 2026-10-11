@@ -1812,6 +1812,8 @@
   "sound.color.shape.rx": "Ancho",
   "sound.color.shape.ry": "Alto",
   "sound.color.shape.feather": "Difuminado",
+  "sound.color.shape.rot": "Giro",
+  "sound.color.shape.square": "Esquinas",
   "sound.color.fx.balance": "Balance de color",
   "sound.color.balance": "Balancear",
   "sound.color.balance.title": "Balancear color (⌥⌘B): la dominante encontrada en los cuadros del clip, quitada — editable después.",
