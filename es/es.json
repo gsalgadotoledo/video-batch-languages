@@ -1760,6 +1760,8 @@
   "sound.color.board.shadows": "Sombras",
   "sound.color.board.midtones": "Medios tonos",
   "sound.color.board.highlights": "Altas luces",
+  "sound.color.fx.adjust": "Ajustes de color",
+  "sound.color.fx.cdl": "ASC CDL",
   "sound.color.fx.wheels": "Ruedas",
   "sound.color.fx.lut": "LUT",
   "sound.color.fx.legacy": "Color",
