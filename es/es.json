@@ -1813,6 +1813,8 @@
   "sound.color.exportLut.done": "LUT guardado: {file}",
   "sound.color.look.category": "Categoría",
   "sound.color.import": "Importar board / CDL…",
+  "sound.color.hue.cvs": "Color vs saturación",
+  "sound.color.eyedropper": "Cuentagotas: clic en el visor para tomar un color",
   "sound.color.fx.wheels": "Ruedas",
   "sound.color.fx.lut": "LUT",
   "sound.color.fx.legacy": "Color",
