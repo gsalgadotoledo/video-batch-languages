@@ -1807,6 +1807,8 @@
   "sound.color.exportLut": "Exportar como LUT",
   "sound.color.exportLut.title": "Todo el color del clip como un .cube 33³ para Final Cut, Resolve o cualquier app que aplique un LUT al material original.",
   "sound.color.exportLut.done": "LUT guardado: {file}",
+  "sound.color.look.category": "Categoría",
+  "sound.color.import": "Importar board / CDL…",
   "sound.color.fx.wheels": "Ruedas",
   "sound.color.fx.lut": "LUT",
   "sound.color.fx.legacy": "Color",
