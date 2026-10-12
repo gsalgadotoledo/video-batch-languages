@@ -1629,6 +1629,7 @@
   "composer.bar.key.black": "Negro limpio",
   "composer.bar.key.white": "Blanco limpio",
   "composer.bar.key.matte": "Mate",
+  "composer.bar.key.edge": "Suavizar borde",
   "composer.bar.key.matteTitle": "Ver el mate: blanco se queda, negro se quita — gris en el sujeto es un hueco, gris en la pantalla es lo que quedó",
   "composer.bar.textPlaceholder": "Texto",
   "composer.cutout.revertTitle": "Volver al video con su fondo",
