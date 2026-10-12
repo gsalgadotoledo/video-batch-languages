@@ -1334,6 +1334,7 @@
   "checkpoints.statusTip": "Checkpoints ({key})",
   "timeline.ui.checkpoints": "Checkpoints: guardar este momento del proyecto, ver uno, crear un video desde él o resetear (⌥H)",
   "timeline.ui.side.chat": "El chat, al lado del editor (⌃1)",
+  "timeline.ui.assistant.toggle": "El asistente: abrirlo o encogerlo (⇧Q)",
   "timeline.ui.side.comments": "Los comentarios, al lado del editor (⌃2)",
   "timeline.ui.side.genres": "Los géneros, al lado del editor (⌃3)",
   "timeline.ui.side.plans": "Los big plans, al lado del editor (⌃4)",
