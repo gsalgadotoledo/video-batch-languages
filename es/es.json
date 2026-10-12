@@ -2750,6 +2750,8 @@
   "shell.projects.count.other": "{count} proyectos",
   "shell.projects.empty": "Aún no hay proyectos en la carpeta de proyectos",
   "shell.projects.none": "Ningún proyecto tiene esas palabras",
+  "shell.projects.meaning": "Por significado",
+  "shell.projects.meaning.about": "Buscar lo que se dice, se ve o pasa en sus archivos (el índice de la galería), no sus nombres",
   "shell.projects.clips": "{count} clips",
   "shell.projects.clips.one": "{count} clip",
   "shell.projects.clips.other": "{count} clips",
