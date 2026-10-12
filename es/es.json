@@ -2848,6 +2848,8 @@
   "shell.layout.splitHint": "Imagen y timeline (T) · ⌘⌥Y alterna dividido, alto y completo",
   "shell.layout.timeline": "Timeline",
   "shell.layout.timelineHint": "El timeline llena todo, el visor flota (⇧T) · ⌘⌥Y alterna las vistas",
+  "shell.layout.flow": "Flujo",
+  "shell.layout.flowHint": "Flujo: el video por voz y con el agente (la misma pestaña)",
   "shell.topbar.exportTitle": "Exportar este video (abre Exportar)",
   "shell.topbar.export": "Exportar",
   "shell.topbar.openChat": "Abrir chat",
