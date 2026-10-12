@@ -788,6 +788,8 @@
   "chat.model.signed": "Sesión iniciada.",
   "chat.model.waiting": "Esperando…",
   "chat.model.relogin": "Volver a iniciar sesión",
+  "chat.model.switchUser": "Otra cuenta",
+  "chat.model.logout": "Cerrar sesión",
   "chat.model.waitingLogin": "Esperando el inicio de sesión…",
   "chat.model.link": "Abrir el enlace para iniciar sesión",
   "chat.model.key.saved": "API key guardada · pon otra para cambiarla",
