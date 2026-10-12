@@ -1045,6 +1045,8 @@
   "timeline.view.lanes": "Carriles",
   "timeline.view.images": "Imágenes",
   "timeline.view.groups": "Grupos",
+  "timeline.group.text": "Texto",
+  "timeline.group.pictures": "Imágenes y video",
   "timeline.group.above": "Encima",
   "timeline.group.focus": "Foco principal",
   "timeline.group.dialogue": "Voz",
