@@ -1851,6 +1851,8 @@
   "sound.color.mask.lumaHigh": "Luma hasta",
   "sound.color.mask.soft": "Suavidad",
   "sound.color.shape.title": "Máscara de forma",
+  "sound.color.shape.follow": "Sigue a",
+  "sound.color.shape.followNone": "Nada (queda fija)",
   "sound.color.shape.map": "Dónde está la forma: haz clic para poner su centro",
   "sound.color.shape.cx": "Centro X",
   "sound.color.shape.cy": "Centro Y",
