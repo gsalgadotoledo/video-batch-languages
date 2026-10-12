@@ -772,6 +772,8 @@
   "chat.model.useSubscription": "Usar la suscripción",
   "chat.model.useAvailable": "Usar lo que haya",
   "chat.model.access": "Acceso",
+  "chat.model.follow": "Mostrar lo que hace",
+  "chat.model.follow.about": "Cuando cambia el color o el sonido de un clip, se abre la hoja de ese clip para verlo mientras lo hace",
   "chat.model.perm.title": "Qué puede hacer",
   "chat.model.perm.all.name": "Todo aprobado",
   "chat.model.perm.all.short": "auto",
