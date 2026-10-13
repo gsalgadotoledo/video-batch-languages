@@ -614,6 +614,8 @@
   "chat.remove": "Quitar {name}",
   "chat.close": "Cerrar",
   "chat.orb.listening": "Escuchando",
+  "chat.orb.listeningQuick": "Escuchando · rápida",
+  "chat.orb.listeningAgent": "Escuchando · agente",
   "chat.orb.thinking": "Pensando",
   "chat.orb.working": "Trabajando",
   "chat.orb.done": "Listo",
