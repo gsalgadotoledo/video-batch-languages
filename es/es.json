@@ -3378,7 +3378,7 @@
   "gins.outputSuggest": "Sugerir salidas",
   "gins.try": "Probar",
   "gins.fromRef": "Desde una referencia",
-  "gins.measure": "Medir",
+  "gins.measure": "medida (p. ej. shot.max <= 4)",
   "gins.measure.about": "Medir los checks de este género en la línea de tiempo abierta: qué cumple, qué falla y por cuánto",
   "gins.fromRef.about": "Proponer checks desde un video de referencia estudiado: su ritmo, textos, música… cada uno con el número de donde salió",
   "gins.try.about": "Probar el género: elige 2–3 archivos de ejemplo y el asistente corre sus pasos, marcando cada uno",
@@ -3813,7 +3813,8 @@
   "gins.inheritMore": "+ otro (gana el último)",
   "gins.from": "de {name}",
   "gins.fromTip": "Heredado de «{name}»: al cambiarlo aquí queda como propio de este género",
-  "gins.inheritedNote": "Heredado de «{name}». Lo que cambies aquí queda como copia propia de este género; «{name}» conserva el suyo."
+  "gins.inheritedNote": "Heredado de «{name}». Lo que cambies aquí queda como copia propia de este género; «{name}» conserva el suyo.",
+  "gins.measureTip": "Cómo lo revisa «✓ Medir» en el timeline: un número y <=, >= o in [a, b]. Vacío: no se mide."
  },
  "commands": {
   "names": {
