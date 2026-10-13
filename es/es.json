@@ -3807,7 +3807,13 @@
   "voice.clickToStopShort": "clic para detener",
   "timeline.ui.orb.quick": "Decir una orden rápida (Q; otra vez para enviar)",
   "timeline.ui.orb.agent": "Decir una orden larga al agente (⇧Q; otra vez para enviar)",
-  "chat.orb.press": "Clic: orden rápida · doble clic: orden larga al agente · otro clic al terminar de hablar"
+  "chat.orb.press": "Clic: orden rápida · doble clic: orden larga al agente · otro clic al terminar de hablar",
+  "gins.inherits": "Hereda de",
+  "gins.inheritNone": "+ un género del que heredar",
+  "gins.inheritMore": "+ otro (gana el último)",
+  "gins.from": "de {name}",
+  "gins.fromTip": "Heredado de «{name}»: al cambiarlo aquí queda como propio de este género",
+  "gins.inheritedNote": "Heredado de «{name}». Lo que cambies aquí queda como copia propia de este género; «{name}» conserva el suyo."
  },
  "commands": {
   "names": {
