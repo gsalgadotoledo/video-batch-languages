@@ -1431,6 +1431,8 @@
   "timeline.laneIcon.lane-toggle-mute": "Silenciar la línea. Ej.: escuchar el video sin la música.",
   "timeline.laneIcon.lane-toggle-solo": "Solo (audífonos): oír solo esta línea. Ej.: revisar la voz sola. También en el menú del clic derecho.",
   "timeline.laneIcon.lane-toggle-lock": "Bloquear la línea: nada en ella se mueve ni se edita. Ej.: la música ya lista mientras cortas la imagen.",
+  "timeline.laneIcon.lane-toggle-delete": "Borrar la línea y lo que tiene (⌘Z la devuelve).",
+  "timeline.lane.deleted": "Línea «{name}» borrada · ⌘Z la devuelve",
   "composer.assetStrip.empty": "Sin imágenes en el proyecto",
   "composer.assetStrip.label": "Imagen",
   "composer.anchor.title": "El ancla: ⌥ + arrastrar la mueve, y el elemento gira y escala sobre ella",
