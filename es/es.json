@@ -3797,7 +3797,12 @@
   "chat.model.perm.bypass.short": "sin preguntar",
   "chat.model.perm.bypass.about": "Todos los permisos dados desde el inicio (editor, terminal, archivos): no se pregunta nada.",
   "chat.slash.cost.usd": " · US$ {usd} a precios de API, de los que US$ {billed} cobrados a una llave",
-  "menu.view.flow": "Flow nuevo"
+  "menu.view.flow": "Flow nuevo",
+  "chat.flow.point": "Flow · al agente · el punto en {at}",
+  "chat.flow.agent": "Flow · al agente",
+  "chat.flow.quick": "Flow · orden rápida",
+  "chat.flow.default": "Flow · como está ajustado",
+  "chat.flow.clear": "Volver a lo de Flow"
  },
  "commands": {
   "names": {
