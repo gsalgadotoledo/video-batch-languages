@@ -3818,7 +3818,19 @@
   "gins.patterns": "Sus patrones",
   "gins.patternNew": "+ un patrón (su nombre)",
   "gins.patternSave": "Guardar el patrón",
-  "gins.patternClose": "Cerrar"
+  "gins.patternClose": "Cerrar",
+  "gins.cases": "Casos",
+  "gins.cases.about": "Pruebas guardadas con lo que deberían ser. «Correr todos» las mide con los checks como están ahora: un check cambiado muestra qué pruebas guardadas juzga distinto.",
+  "gins.casesNone": "Aún ninguno: mide una prueba (✓ Medir) y guárdala como caso bueno o malo.",
+  "gins.casesRun": "Correr todos",
+  "gins.casesRun.about": "Mide cada caso con los checks del género como están ahora",
+  "gins.casesRan": "{ok} de {all} como se espera",
+  "gins.caseName": "Guardar como caso…",
+  "gins.caseGood": "bueno",
+  "gins.caseGood.about": "Guarda este timeline como caso bueno: todos los checks deberían pasar",
+  "gins.caseBad": "malo",
+  "gins.caseBad.about": "Guarda este timeline como caso malo: algún check debería fallar",
+  "gins.caseOff": "No como se espera. Fallan: {failing}"
  },
  "commands": {
   "names": {
