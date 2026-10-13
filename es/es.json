@@ -1370,7 +1370,7 @@
   "checkpoints.statusTip": "Checkpoints ({key})",
   "timeline.ui.checkpoints": "Checkpoints: guardar este momento del proyecto, ver uno, crear un video desde él o resetear (⌥H)",
   "timeline.ui.side.chat": "El chat, al lado del editor (⌃1)",
-  "timeline.ui.assistant.toggle": "El asistente: abrirlo (⇧Q), otra vez para hablarle",
+  "timeline.ui.assistant.toggle": "El chat: abrirlo o cerrarlo",
   "timeline.ui.side.comments": "Los comentarios, al lado del editor (⌃2)",
   "timeline.ui.side.genres": "Los géneros, al lado del editor (⌃3)",
   "timeline.ui.side.plans": "Los big plans, al lado del editor (⌃4)",
@@ -3804,7 +3804,10 @@
   "chat.flow.default": "Flow · como está ajustado",
   "chat.flow.clear": "Volver a lo de Flow",
   "voice.clickToStop": "Clic en la línea para detener la grabación (o Enter / Esc)",
-  "voice.clickToStopShort": "clic para detener"
+  "voice.clickToStopShort": "clic para detener",
+  "timeline.ui.orb.quick": "Decir una orden rápida (Q; otra vez para enviar)",
+  "timeline.ui.orb.agent": "Decir una orden larga al agente (⇧Q; otra vez para enviar)",
+  "chat.orb.press": "Clic: orden rápida · doble clic: orden larga al agente · otro clic al terminar de hablar"
  },
  "commands": {
   "names": {
