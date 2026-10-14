@@ -5149,7 +5149,25 @@
   "ui2.eq.deesser": "de-esser",
   "ui2.eq.plosives": "plosivas",
   "ui2.sound.detector.peak": "Pico",
-  "ui2.mic.input": "Micrófono {n}"
+  "ui2.mic.input": "Micrófono {n}",
+  "chat.job.cancel": "Cancelar",
+  "chat.job.pause": "Pausar",
+  "chat.job.pause.about": "Detiene esta tarea donde va; lo que hizo se queda",
+  "chat.job.resume": "Seguir",
+  "chat.job.resume.about": "Que siga desde donde se pausó",
+  "chat.job.paused": "En pausa — reanúdala para seguir",
+  "chat.job.paused.short": "En pausa",
+  "chat.job.steps": "{count} pasos",
+  "chat.job.steps.one": "{count} paso",
+  "chat.job.steps.other": "{count} pasos",
+  "chat.job.reply": "Responder",
+  "chat.job.reply.live": "Dile algo: lo lee después del paso en que va",
+  "chat.job.reply.done": "Pídele más: sigue en la misma tarea",
+  "chat.job.reply.send": "Enviar",
+  "chat.job.see": "Ver",
+  "chat.job.see.about": "Reproduce la parte del video en que trabaja",
+  "chat.job.add": "Agregar al timeline",
+  "chat.job.answer": "Tu respuesta…"
  },
  "commands": {
   "names": {
