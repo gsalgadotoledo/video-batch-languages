@@ -4011,7 +4011,25 @@
   "extract.installFailed": "No se pudo instalar el analizador: {error}",
   "gins.fromRefLink": "Agregar checks desde una referencia",
   "gins.fromRefLink.about": "Abre Extraer de una referencia con este género elegido: entra un video y se proponen sus checks",
-  "extract.n.shotAvg": "toma media {avg} s"
+  "extract.n.shotAvg": "toma media {avg} s",
+  "composer.fonts.group.recent": "Recientes",
+  "composer.fonts.group.trending": "Tendencia",
+  "composer.fonts.group.project": "Del proyecto",
+  "composer.fonts.group.system": "Del sistema",
+  "composer.fonts.picker.search": "Buscar fuente",
+  "composer.fonts.picker.empty": "Ninguna fuente se llama así",
+  "composer.fonts.picker.weight": "Grosor",
+  "composer.fonts.weight.100": "Fina",
+  "composer.fonts.weight.200": "Extrafina",
+  "composer.fonts.weight.300": "Ligera",
+  "composer.fonts.weight.400": "Normal",
+  "composer.fonts.weight.500": "Media",
+  "composer.fonts.weight.600": "Seminegrita",
+  "composer.fonts.weight.700": "Negrita",
+  "composer.fonts.weight.800": "Extranegrita",
+  "composer.fonts.weight.900": "Black",
+  "composer.fonts.added": "{count} fuentes agregadas al proyecto",
+  "composer.symbol.varType": "Tipo de variable"
  },
  "commands": {
   "names": {
@@ -4959,7 +4977,8 @@
    "zoom.powers": "Zoom «Potencias de diez»",
    "reference.thumbs": "Ver las tomas de una referencia",
    "reference.remove": "Borrar una referencia",
-   "reference.show": "Extraer de una referencia"
+   "reference.show": "Extraer de una referencia",
+   "font.add": "Agregar fuentes al proyecto"
   },
   "categories": {
    "Agent": "Agente",
