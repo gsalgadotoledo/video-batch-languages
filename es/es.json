@@ -1569,6 +1569,8 @@
   "composer.tracking.onFace": "Cara",
   "composer.tracking.onAnimal": "Animal",
   "composer.tracking.stickerImage": "Imagen de la galería…",
+  "composer.tracking.cover": "Cubre +{n} %",
+  "composer.tracking.coverHint": "Cuánto más que la cara cubre el emoji o la imagen, para que no se asome nada (20 % por defecto; se recuerda)",
   "composer.tracking.markPlanar": "Marcar algo plano (una pantalla, un cartel): haz clic en sus cuatro esquinas, en el sentido del reloj",
   "composer.tracking.finding": "Buscando «{target}»…",
   "composer.tracking.words": "Seguir con IA",
